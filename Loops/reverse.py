@@ -9,4 +9,6 @@ while True:
     if(r.casefold() == "n"):
         break
 
-print("your list" , list(reversed(data)))
+#data.reversed()  Reverse the list in place
+
+print("your list" , list(reversed(data))) #it doesn't modify the actual data just print in reversed order
