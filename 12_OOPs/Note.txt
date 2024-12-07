@@ -1,0 +1,11 @@
+__init__
+Self: The self parameter is a reference to the current instance of the class and is used to access the 
+      variables that belongs to the class.
+      Inside a class as a member function or instance method is always required a self parameter.
+
+We can not directly create multiple constructor in python but we can define instance methods as per the need.
+
+Static Method: Methods that dont use self parameter (works at class level).'@staticmethod' this decorator is 
+               used to define a method static.
+
+

@@ -1,0 +1,6 @@
+PRACTICE QUESTIONS:
+
+Q1. Create a dictionary with the following keys and values:
+    name: "Alice", age: 25, city: "New York".
+Q2.
+

@@ -1,0 +1,13 @@
+Mutable Data Types:
+    Lists
+    Dictionaries
+    Sets
+    Bytearrays
+
+Immutable Data Types:
+    Strings
+    Tuples
+    Numbers (integers, floats, complex numbers)
+    Booleans
+    frozenset
+    Bytes

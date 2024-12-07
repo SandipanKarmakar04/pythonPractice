@@ -1,0 +1,7 @@
+len():
+upper():
+lower():
+split():
+isdigit(): This method checks if all characters in the string are digits.
+find(): This method returns the index of the first occurrence.
+index(): If the substring exists, index() gives the position of the first occurrence (just like find()).

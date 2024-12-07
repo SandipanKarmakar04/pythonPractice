@@ -1,0 +1,10 @@
+append(): This method add a value at the last position in a list.
+pop(): This method remove a value from the last position in a list and return it.
+remove(): This method remove the exact value which is passign as a parameter,but it doesn't return it.
+insert(): This method insert a value at the exact position you have mentioned.
+copy(): This method helps the user to copy a list or value. It gives a seperate reference.
+count(): This method is used to count the quantity of a value.
+
+conditional: This is the technique to search anything through a list.
+    if "value" in variableName:
+        print("I have the value")

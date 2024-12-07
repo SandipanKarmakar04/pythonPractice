@@ -1,0 +1,32 @@
+PRACTICE QUESTIONS:
+
+01. Create a string "Hello, Python!". Print its length. 
+02. Extract the substring "Python" from "I am learning Python programming.".
+03. Convert "hello world" to uppercase and then to lowercase.
+04. Replace all occurrences of "a" with "@" in the string "banana".
+05. Concatenate the strings "Good " and "Morning!".
+06. Print the first 5 characters of "Programming".
+07. Reverse the string "abcdef".
+08. Extract the last 3 characters of "Learning".
+09. Print every second character in the string "Python is fun!".
+10. Check if "12345" contains only digits.
+11. Count the number of occurrences of the letter "p" in "apple pie".
+12. Find the index of the first occurrence of "is" in "This is a simple string.".
+13. Remove leading and trailing spaces from " hello ".
+14. Split the string "apple,banana,grape" into a list of fruits.
+15. Use an f-string to format "I have {apples} apples and {bananas} bananas." where apples = 3 and bananas = 5.
+16. Format the number 3.14159265359 to display only 3 decimal places.
+17. Check if the string "radar" is a palindrome.
+18. Write a program to count the number of vowels in "Programming is awesome!".
+19. Find all unique characters in the string "hello world".
+20. Write a program to remove all non-alphabetic characters from "Hello@123! Python$%&".
+21. Reverse the words in "Python is fun" to get "fun is Python".
+22. Check if two strings, "listen" and "silent", are anagrams.
+23. Write a program to count the frequency of each character in "mississippi".
+24. Replace all vowels in "hello world" with the character '*'.
+25. Find the longest word in "Python is a powerful and versatile language.".
+26. Write a function to compress a string using counts of repeated characters (e.g., "aaabbc" → "a3b2c1").
+27. Split the string "The quick brown fox jumps over the lazy dog" into a list of words and find the length of each word.
+28. Sort the characters in "banana" alphabetically.
+29. Write a program to capitalize the first letter of every word in "welcome to python programming!".
+30. Count the number of words in "This is a simple Python exercise.".

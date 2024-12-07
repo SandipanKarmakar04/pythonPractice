@@ -2,12 +2,10 @@ PS D:\Code Practice\Python> python
 Python 3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>> tea = ["black", "green", "milk"]
->>> te
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-NameError: name 'te' is not defined. Did you mean: 'tea'?
+
 >>> tea
 ['black', 'green', 'milk']
+
 >>> print(tea)
 ['black', 'green', 'milk']
 >>> tea[0]
