@@ -8,4 +8,11 @@ We can not directly create multiple constructor in python but we can define inst
 Static Method: Methods that dont use self parameter (works at class level).'@staticmethod' this decorator is 
                used to define a method static.
 
+Inheritence: Python supports 3 types of inheritence (single, Multilevel, multiple).
 
+super(): '@classmethod'
+
+#Decorator
+@staticmethod
+@classmethod
+@property

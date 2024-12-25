@@ -1,0 +1,33 @@
+#Built in Math Function:
+
+To use the functions and constants from the math module: import math
+
+# Basic Math Functions:
+math.sqrt(x)	        Returns the square root of x.	                    math.sqrt(16) → 4.0
+math.ceil(x)	        Returns the smallest integer ≥ x.	                math.ceil(3.2) → 4
+math.floor(x)	        Returns the largest integer ≤ x.	                math.floor(3.7) → 3
+math.fabs(x)	        Returns the absolute value of x as a float.	        math.fabs(-7) → 7.0
+math.factorial(x)	    Returns the factorial of x.	                        math.factorial(5) → 120
+math.gcd(a, b)	        Returns the greatest common divisor of a and b.	    math.gcd(12, 15) → 3
+math.log(x, base)	    Returns the logarithm of x to the given base.	    math.log(8, 2) → 3.0
+math.log10(x)	        Returns the base-10 logarithm of x.	                math.log10(100) → 2.0
+math.exp(x)	            Returns e raised to the power of x (e^x).	        math.exp(2) → 7.389
+math.pow(x, y)	        Returns x raised to the power of y as a float.	    math.pow(2, 3) → 8.0
+math.remainder(x, y)	Returns the remainder of x / y.	                    math.remainder(10, 4) → 2.0
+
+# Trigonometric Functions:
+math.sin(x)	            Returns the sine of x (in radians).	                math.sin(math.pi/2) → 1.0
+math.cos(x)	            Returns the cosine of x (in radians).	            math.cos(0) → 1.0
+math.tan(x)	            Returns the tangent of x (in radians).	            math.tan(math.pi/4) → 1.0
+math.asin(x)	        Returns the arc sine of x in radians.	            math.asin(1) → 1.5708
+math.acos(x)	        Returns the arc cosine of x in radians.	            math.acos(1) → 0.0
+math.atan(x)	        Returns the arc tangent of x in radians.	        math.atan(1) → 0.7854
+math.degrees(x)	        Converts angle x from radians to degrees.	        math.degrees(math.pi) → 180
+math.radians(x)	        Converts angle x from degrees to radians.	        math.radians(180) → 3.14
+
+# Constants:
+math.pi	                Represents π (pi), the ratio of circumference to diameter.	    3.141592653589793
+math.e	                Represents Euler's number, the base of the natural logarithm.	2.718281828459045
+math.tau	            Represents τ (tau = 2 * π).	                                    6.283185307179586
+math.inf	            Represents positive infinity.	                                math.inf
+math.nan	            Represents "Not a Number".	                                    math.nan
