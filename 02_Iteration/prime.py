@@ -1,5 +1,5 @@
 # Get user input
-number = int(input("Enter a number: "))
+number = int(input("Enter a number: "))89
 
 if number > 1:
     for i in range(2, number):

@@ -3,7 +3,7 @@ try:
     y = int(input("enter a value"))
     add = x + y
     print(add)
-except ValueError as e:
+except:
     print("Invalid entry.")
 else:
     print("Your desired output is here.")
@@ -12,7 +12,7 @@ finally:
 
 
 
-# Understanding Exceotions.
+# Understanding Exceptions.
 #   a) ZeroDivisionError: Dividing by zero.
 #   b) ValueError: Invalid conversion of data type.
 #   c) FileNotFoundError: File operations fails because the file doesn't exist.

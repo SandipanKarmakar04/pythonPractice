@@ -2,14 +2,14 @@ Opening a file:
     Open(): For open a file.
     r: For reading.
     w: For Writing.
-    a: For Appending.
+    a: For Appending. 
 
 Modes in file:
     read(r): This mode opens the file for reading only and gives and error if the file does not exist. 
              This is the defeult mode if no mode is passed as a parameter.
     write(w): This mode opens the file for writing only and creates a new file if the file does not exist.
     append(a): This mode opens the file for appending only and creates a new file if the file does not exist.
-    create(x): This mode creates a fike and gives an error if the file already exists.
+    create(x): This mode creates a file and gives an error if the file already exists.
     Close(): For closing a file.
 
 * After reading and writing we should need to close the file.
