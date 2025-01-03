@@ -4,3 +4,5 @@ s = "abcdef"
 
 print(s.split())
 print(''.join(reversed(s)))
+
+print(reversed(s))

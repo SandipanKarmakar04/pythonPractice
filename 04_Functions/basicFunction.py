@@ -1,4 +1,5 @@
 def square(num):
     print(num ** 2);
 
-square(4)
+r = square(4)
+print(r)

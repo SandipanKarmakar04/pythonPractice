@@ -2,25 +2,25 @@ LIST IN PYTHON
 
 PRACTICE QUESTIONS:
 
-01. Create a list of the first 10 natural numbers. Print the list.
-02. Access the third element of a list fruits = ['apple', 'banana', 'cherry', 'date', 'fig'].
-03. Update the second element in a list colors = ['red', 'blue', 'green', 'yellow'] to 'purple'.
-04. Append 'grape' to the list fruits = ['apple', 'banana', 'cherry'].
-05. Remove the last element from the list nums = [10, 20, 30, 40, 50] and print the modified list.
-06. Print the first three elements of my_list = [5, 10, 15, 20, 25].
-07. Extract the last three elements of nums = [1, 2, 3, 4, 5, 6, 7, 8].
-08. Reverse the list my_list using slicing.
-09. Create a list of squares of numbers from 1 to 10 using list comprehension.
-10. Generate a list of all even numbers between 1 and 50 using list comprehension.
-11. Find the length of the list names = ['Alice', 'Bob', 'Charlie'].
-12. Use the sort() method to sort the list scores = [55, 23, 78, 12, 90, 65] in ascending order.
-13. Find the index of 'banana' in the list fruits = ['apple', 'banana', 'cherry', 'date'].
-14. Count the occurrences of 2 in the list nums = [2, 5, 2, 8, 2, 9, 2].
-15. Merge two lists: list1 = [1, 2, 3] and list2 = [4, 5, 6].
-16. Remove duplicates from the list nums = [1, 2, 2, 3, 4, 4, 5].
-17. Check if the element 10 exists in the list nums = [5, 8, 12, 7, 10].
-18. Write a Python program to find the largest and smallest elements in the list nums = [45, 23, 78, 12, 90, 65].
+01. Create a list of the first 10 natural numbers. Print the list. ✅
+02. Access the third element of a list fruits = ['apple', 'banana', 'cherry', 'date', 'fig']. ✅
+03. Update the second element in a list colors = ['red', 'blue', 'green', 'yellow'] to 'purple'. ✅
+04. Append 'grape' to the list fruits = ['apple', 'banana', 'cherry']. ✅
+05. Remove the last element from the list nums = [10, 20, 30, 40, 50] and print the modified list. ✅
+06. Print the first three elements of my_list = [5, 10, 15, 20, 25]. ✅
+07. Extract the last three elements of nums = [1, 2, 3, 4, 5, 6, 7, 8]. ✅
+08. Reverse the list my_list using slicing. ✅
+09. Create a list of squares of numbers from 1 to 10 using list comprehension. ✅
+10. Generate a list of all even numbers between 1 and 50 using list comprehension. ✅
+11. Find the length of the list names = ['Alice', 'Bob', 'Charlie']. ✅
+12. Use the sort() method to sort the list scores = [55, 23, 78, 12, 90, 65] in ascending order. ✅
+13. Find the index of 'banana' in the list fruits = ['apple', 'banana', 'cherry', 'date']. ✅
+14. Count the occurrences of 2 in the list nums = [2, 5, 2, 8, 2, 9, 2]. ✅
+15. Merge two lists: list1 = [1, 2, 3] and list2 = [4, 5, 6]. ✅
+16. Remove duplicates from the list nums = [1, 2, 2, 3, 4, 4, 5]. ✅
+17. Check if the element 10 exists in the list nums = [5, 8, 12, 7, 10]. ✅
+18. Write a Python program to find the largest and smallest elements in the list nums = [45, 23, 78, 12, 90, 65]. ✅
 19. Rotate the list nums = [1, 2, 3, 4, 5] one step to the left to get [2, 3, 4, 5, 1].
-20. Write a program to split a list into two halves: nums = [1, 2, 3, 4, 5, 6].
+20. Write a program to split a list into two halves: nums = [1, 2, 3, 4, 5, 6]. ✅
 21. Flatten a nested list nested = [[1, 2, 3], [4, 5], [6, 7, 8]] into a single list.
-22. Write a program to find the second largest number in the list nums = [10, 20, 15, 40, 25].
+22. Write a program to find the second largest number in the list nums = [10, 20, 15, 40, 25]. ✅

@@ -2,5 +2,5 @@
 
 nums = [10, 20, 30, 40, 50]
 
-nums.pop()
+nums.pop(2)
 print(nums)
